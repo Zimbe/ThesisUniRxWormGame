@@ -1,0 +1,10 @@
+Aloita peli
+Poistu
+Ennätyspisteet
+WORM, MATOPELI
+Ei Mato Matala vaan: 
+Hävisit! Parempi onni ensikerralla!
+Peli nimesi:
+Pisteet: 
+Yritä uudestaan
+Takaisin päävalikkoon

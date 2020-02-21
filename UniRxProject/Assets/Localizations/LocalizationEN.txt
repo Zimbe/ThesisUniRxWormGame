@@ -1,0 +1,10 @@
+Start game
+Quit
+Highscore
+MATO THE WORM GAME
+As
+You lost! Better luck next time!
+Your Nickname:
+Points: 
+Restart
+Back To Main Menu
